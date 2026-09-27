@@ -105,7 +105,7 @@ Overall, this internship helped me strengthen both my technical and professional
    Implemented and analyzed a 32-bit RISC-V RTL design using OpenLane. Performed synthesis, floorplanning, power planning, placement, CTS, routing and Static Timing Analysis. Applied clock uncertainty, derate, input/output delay, utilization, floorplan ratio, port placement and CTS constraints, and analyzed the resulting physical design reports.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="<!-- assignment 3.pdf -->" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
