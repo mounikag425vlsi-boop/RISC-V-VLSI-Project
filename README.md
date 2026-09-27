@@ -113,43 +113,44 @@ Overall, this internship helped me strengthen both my technical and professional
 
 ## **References**
 
-- [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
----
+- -- OpenLane Documentation
+
+OpenROAD Documentation
+Yosys Documentation
+OpenSTA
+SkyWater SKY130 PDK
 
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+<!-- During the LST and SST sessions, I improved my technical knowledge, communication skills, problem-solving ability, and professional approach. I learned how to understand technical requirements, document my work, analyze issues, communicate effectively, and present my project work clearly.
+
+The sessions also helped me develop better teamwork, time management, technical documentation, and presentation skills. These learnings supported me in completing the VLSI Physical Design assignments and documenting the project work professionally.
+
+ -->
+
 
 ## **Community Services**
 
-<!-- add descreption in your own words -->
+<!-- During my training period, I participated in community-oriented activities and contributed to social and environmental initiatives. These activities helped me develop communication, teamwork, coordination, and social responsibility.
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+ -->
 
 ### **Activities Involved**
 <!-- add the location where you given -->
 - **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
   
- <!-- add the location where you have panted -->
-- **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
+ <!-- HYDERABAD -->
+- **Tree Plantation Drive** – Participated in planting trees and contributing to environmental improvement. The activity increased my awareness of environmental responsibility and the importance of protecting nature.
 
-  <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
+  <!-- HYDERABAD -->
+- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. This experience helped me develop patience, empathy, and a sense of responsibility toward senior citizens.
 
-<!-- you can write impacts according to your experience in your words-->
+<!-- -->
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
-- Actively participated in promoting a greener and cleaner surroundings.
-- Offered personal assistance to elder citizens, strengthening community bonds.
-- Improved skills in communication, coordination, and social responsibility.
-
+- Through these community service activities, I developed a stronger sense of social responsibility, teamwork, empathy, and willingness to help others. These experiences also improved my communication skills and taught me the importance of contributing positively to the community.
 ### **Photos**
 
 <!-- add your photos below -->
@@ -167,7 +168,8 @@ During my internship period, I participated in multiple community-oriented activ
 
 ## **Certificate**
 
-The internship certificate serves as an official acknowledgment of the successful completion of my training period. It will be issued by the organization upon fulfilling all required tasks and meeting the performance expectations of the program. The certificate validates the skills, experience, and contributions made during the internship.
+The internship certificate serves as official recognition of the successful completion of my internship and training period. It acknowledges my participation, dedication, and contributions throughout the program and validates the skills and experience gained during the internship.
+
 
 <!-- add your certificate image url below (inside src='')-->
 
@@ -179,7 +181,9 @@ The internship certificate serves as an official acknowledgment of the successfu
 
 ## **Acknowledgments**
 
-<!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
+<!-- I would like to express my sincere gratitude to Prof. Radhakumari Mam, Executive Director and Founder of SURE Trust, for providing me with the opportunity to participate in this internship program.
+I am thankful to the trainers and mentors for their valuable guidance, continuous support, and encouragement throughout the training period. I also appreciate SURE Trust for providing a platform to enhance my technical skills, professional knowledge, and personal development. -->
+ -->
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
 
