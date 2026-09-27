@@ -87,24 +87,22 @@ Overall, this internship helped me strengthen both my technical and professional
     Practiced Linux commands, Vi editor, chmod, grep and awk. Explored the OpenLane directory structure and analyzed reports and logs. Performed TCL automation tasks including wire-length calculation, clock and data wire-length analysis, IR-drop analysis, cell voltage analysis and logic-level analysis.
 </p>
 <p>
-  <a href="<>" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="<assignment 1 pd.docx>" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
+<h3 id="project2">Project 2: <4-bit and 32-bit Up/Down Counter Physical Design using OpenLane></h3>
 <p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
+   Performed the OpenLane physical design flow for 4-bit and 32-bit Up/Down Counter designs. Analyzed synthesis, floorplanning, placement, CTS, routing, timing, power, area, utilization and IR drop. Applied timing and physical design constraints and explored the OpenLane GUI for physical design analysis.
 </p>
 <p>
   <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
+<h3 id="project3">Project 3: Project 3: RISC-V 32-bit RTL Physical Design Flow</h3>
 <p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
+   Implemented and analyzed a 32-bit RISC-V RTL design using OpenLane. Performed synthesis, floorplanning, power planning, placement, CTS, routing and Static Timing Analysis. Applied clock uncertainty, derate, input/output delay, utilization, floorplan ratio, port placement and CTS constraints, and analyzed the resulting physical design reports.
 </p>
 <p>
   <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
