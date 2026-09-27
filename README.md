@@ -18,31 +18,31 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--- Add your name---> </p>
-    <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>College Name:</strong> <!--- Add your college name---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- Add your branch name---> </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>Name:</strong> V.MOUNIKA </p>
+    <p><strong>Email ID:</strong> mounikag425@gmail.com </p>
+    <p><strong>College Name:</strong > ANURAG College Of Engineering </p>
+    <p><strong>Branch/Specialization :</strong> VLSI </p>
+    <p><strong>College ID:</strong>  12PQ1D5715 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:</strong> VLSI </p>
+    <p><strong>Instructor Name:</strong>VEERAMANI SIR </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong> 6 MONTHS  </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Name:</strong> VEERAMANI SIR </p>
+<p><strong>Trainer Email ID:</strong> <veeramani_r@outlook.com </p>
+<p><strong>Trainer Designation:</strong> Staff Engineer at Synopsys</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -63,20 +63,19 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+> _During this internship, I gained valuable knowledge and practical experience through hands-on training and project-based learning. I developed a better understanding of technical concepts and learned how to apply them to real-world problems.
+Throughout the program, I improved my problem-solving, communication, teamwork, documentation, and time-management skills. I also learned the importance of following a structured approach while working on projects, completing assigned tasks, and presenting the results effectively.
+Overall, this internship helped me strengthen both my technical and professional skills and increased my confidence in working on real-world projects.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> &lt; Linux, OpenLane Environment and TCL Automation;</p>
 
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project2">Project 2:</a></strong> &lt;4-bit and 32-bit Up/Down Counter Physical Design using OpenLane;</p>
 
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project3">Project 3:</a></strong> &lt;RISC-V 32-bit RTL Physical Design Flow;</p>
 
 <p><em>(You can add more projects as needed)</em></p>
 
