@@ -96,7 +96,7 @@ Overall, this internship helped me strengthen both my technical and professional
    Performed the OpenLane physical design flow for 4-bit and 32-bit Up/Down Counter designs. Analyzed synthesis, floorplanning, placement, CTS, routing, timing, power, area, utilization and IR drop. Applied timing and physical design constraints and explored the OpenLane GUI for physical design analysis.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="<!-- assignment-2.pdf-->" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 3 -->
