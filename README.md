@@ -41,7 +41,7 @@
 <div align="left" style="margin: 20px; font-size: 16px;">
 
 <p><strong>Trainer Name:</strong> VEERAMANI SIR </p>
-<p><strong>Trainer Email ID:</strong> <veeramani_r@outlook.com </p>
+<p><strong>Trainer Email ID:</strong> veeramani_r@outlook.com </p>
 <p><strong>Trainer Designation:</strong> Staff Engineer at Synopsys</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
